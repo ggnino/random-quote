@@ -24,7 +24,7 @@ class App extends Component {
 			in: null,
 			quote: [
 				"Never forget what you are. The rest of the world will not. Wear it like armor, and it can never be used to hurt you. - Tyrion Lannister",
-				"There is only one thing we say to death: Not today. - Swordsman extraordinaire Syrio Forel",
+				"There is only one thing we say to the god of death: Not today. - Swordsman extraordinaire Syrio Forel",
 				"The man who passes the sentence should swing the sword. - Ned Stark",
 				"Chaos isn’t a pit. Chaos is a ladder. - Little Finger",
 				"You know nothing, Jon Snow. - Ygritte",
@@ -33,8 +33,8 @@ class App extends Component {
 				"The night is dark and full of terrors - Melisandre",
 				"A lion does not concern himself with the opinion of sheep - Tywin Lannister",
 				"When people ask you what happened here, tell them the North remembers. Tell them winter came for House Frey. - Arya",
-				"Im not going to stop the wheel. Im going to break the wheel. - Daenerys Targaryen"
-			]
+				"Im not going to stop the wheel. Im going to break the wheel. - Daenerys Targaryen",
+			],
 		};
 	}
 
@@ -54,8 +54,8 @@ class App extends Component {
 				'"The night is dark and full of terrors." \n- Melisandre',
 				'"A lion does not concern himself with the opinion of sheep" \n- Tywin Lannister',
 				'"When people ask you what happened here, tell them the North remembers. Tell them winter came for House Frey." \n- Arya',
-				'"Im not going to stop the wheel. Im going to break the wheel. \n- Daenerys Targaryen'
-			]
+				'"Im not going to stop the wheel. Im going to break the wheel. \n- Daenerys Targaryen',
+			],
 		});
 	};
 	display = () => {
